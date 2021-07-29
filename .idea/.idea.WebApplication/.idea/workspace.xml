@@ -4,13 +4,24 @@
     <projectFile>WebApplication/WebApplication.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a70a3811-0a20-41ed-aeb4-1fdddd3108af" name="Default Changelist" comment="Step1_Create" />
+    <list default="true" id="a70a3811-0a20-41ed-aeb4-1fdddd3108af" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.WebApplication/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WebApplication/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAPI" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ChangesViewManager" show_ignored="true" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/WebApplication/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApplication/WeatherForecast.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApplication/Program.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/WebApplication/Program.cs" />
@@ -70,7 +81,10 @@
       <option name="presentableId" value="Default" />
       <updated>1627573488373</updated>
       <workItem from="1627573490022" duration="1016000" />
-      <workItem from="1627574606789" duration="942000" />
+      <workItem from="1627574606789" duration="2753000" />
+      <workItem from="1627579995813" duration="78000" />
+      <workItem from="1627580238820" duration="477000" />
+      <workItem from="1627580998605" duration="755000" />
     </task>
     <servers />
   </component>
